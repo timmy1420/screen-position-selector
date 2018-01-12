@@ -9,3 +9,7 @@ I have an idea to build an application that selects a position on the screen (e.
 ## Helper Tools
 
 - [Robot JS](https://robotjs.io)
+
+## License
+
+This project is licensed under the terms of the [GNU General Public License v2.0](LICENSE.md).

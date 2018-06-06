@@ -9,6 +9,7 @@ I have an idea to build an application that selects a position on the screen (e.
 ## Helper Tools
 
 - [Robot JS](https://robotjs.io)
+- [xdotool]
 
 ## License
 
